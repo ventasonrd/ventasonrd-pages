@@ -52,6 +52,54 @@ escribiéndonos por nuestros canales oficiales.
 Contacto
 
 VentasOnRD
-Correo: contacto@ventasonrd.com
+Correo: ventasonrd@gmail.com
 
 WhatsApp: canal oficial de VentasOnRD
+
+
+
+
+
+
+Terms of Service – VentasOnRD
+
+Copia y pega debajo de la Privacy Policy en el mismo index.md:
+
+Terms of Service – VentasOnRD
+
+Last updated: 30 de diciembre de 2025
+
+Al comunicarte con VentasOnRD a través de WhatsApp u otros canales digitales, aceptas los siguientes términos:
+
+Uso del servicio
+
+El servicio de WhatsApp se utiliza para atención al cliente, información sobre vehículos y soporte.
+
+Las respuestas pueden ser automatizadas mediante herramientas como WhatsApp Cloud API y n8n.
+
+Responsabilidad
+
+VentasOnRD no garantiza disponibilidad continua del servicio.
+
+La información proporcionada puede estar sujeta a cambios sin previo aviso.
+
+Uso adecuado
+
+El usuario se compromete a:
+
+No enviar contenido ilegal, ofensivo o fraudulento.
+
+No usar el canal para spam o actividades no autorizadas.
+
+Limitación
+
+VentasOnRD no se hace responsable por daños derivados del uso de los canales digitales.
+
+Modificaciones
+
+Estos términos pueden actualizarse en cualquier momento. El uso continuado del servicio implica aceptación de los cambios.
+
+Contacto
+
+VentasOnRD
+Correo: ventasonrd@gmail.com
